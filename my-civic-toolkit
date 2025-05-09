@@ -1,0 +1,8 @@
+my-civic-toolkit/
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── main.py
+├── config.yaml
+└── docs/
+    └── setup_guide.md
